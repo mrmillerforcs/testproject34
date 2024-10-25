@@ -5,5 +5,6 @@ public class TestRunner {
         System.out.println("welcome");
         System.out.println("arndom");
         System.out.println("hello again");
+        System.out.println("hi again");
     }
 }
